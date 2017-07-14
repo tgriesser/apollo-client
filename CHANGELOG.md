@@ -1,6 +1,7 @@
 # Change log
 
 ### vNEXT
+- Migrated the cache away from Redux in preparation for the generic store API [PR 1907](https://github.com/apollographql/apollo-client/pull/1907)
 - added prettier to manage formatting of project [PR #1904](https://github.com/apollographql/apollo-client/pull/1904)
 
 ### v.1.9.0-0
